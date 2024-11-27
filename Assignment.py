@@ -18,6 +18,6 @@ d/=p
 print(d)
 
 b= int(input("Enter a value: "))
-c= int(input("enter remainder value: "))
+c= int(input("enter divisable value: "))
 b%=c
 print(b)
